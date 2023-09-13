@@ -9,7 +9,7 @@ and completion dates (Start and Completion respectively), the type of study (Typ
 when the trial was first submitted (Submission), and the lists of conditions the trial 
 concerns (Conditions) and the interventions explored (Interventions). Individual 
 conditions and interventions are separated by commas. 
-(Source: ClinicalTrials.gov)
+(Source: https://ClinicalTrials.gov)
 </br>
 2. pharma.csv:
 The file contains a small number of a publicly available list of pharmaceutical 
